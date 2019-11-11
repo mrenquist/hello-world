@@ -1,2 +1,6 @@
 # hello-world
-This is a test of this application
+readme-edits
+
+hello
+
+Node.js and coffeescript is used here.
